@@ -1,0 +1,2 @@
+# scriptcore
+multiple script test
